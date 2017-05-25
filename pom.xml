@@ -333,6 +333,11 @@
 						</lifecycleMappingMetadata>
 					</configuration>
 				</plugin>
+				<plugin>
+   					<groupId>com.google.appengine</groupId>
+   					<artifactId>appengine-maven-plugin</artifactId>
+   					<version>1.9.52</version>
+				</plugin>
 			</plugins>
 		</pluginManagement>
 	</build>
